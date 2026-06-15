@@ -6,6 +6,9 @@
 > **Fecha:** 14 de junio de 2026  
 > **Entorno:** VMware — Kali Linux 2025.3 (Atacante) + Windows 10 (Víctima)
 
+> ## **Video demostrativo:** ## 
+> ## https://www.youtube.com/watch?v=IhdD9W5Fx24 ##
+
 ---
 
 ## 📋 Tabla de Contenidos
